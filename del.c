@@ -1,3 +1,9 @@
+/*
+	Very simple program for deleting files and folders
+	
+	krisvers - 9/10/22
+*/
+
 #include <stdio.h>
 
 int main(int argc, char **argv)
